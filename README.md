@@ -15,6 +15,9 @@ I am a **Data Scientist & Machine Learning Enthusiast** with experience in **bui
 🔹 **End-to-End Data Solutions** – Designing, developing, and deploying **full-stack data solutions from ingestion to reporting**.  **Collaborating with cross-functional teams** to develop and implement scalable data pipelines.       
 🔹 **Business Impact & Strategy** – Aligning **data insights with business goals** and **communicating findings effectively** to drive strategy, revenue growth, efficiency and innovation.  
 🔹 **Data Governance & Quality** – Ensuring **data integrity, compliance, and governance standards** across organizations to maintain accuracy and reliability across data systems.     
+🔹 **Full Stack Application** - Experience with all phases of end-to-end Analytics project.     
+🔹 **Modeling** - Experience building models using statistical techniques such as Supervised and Unsupervised Machine Learning models, Deep learning, Text classification etc.      
+
 
 ---
 ### 🔧 **Tech Stack**  
